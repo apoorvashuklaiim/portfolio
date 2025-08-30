@@ -17,6 +17,15 @@ Currently, I serve as **Senior Manager at KEC International Ltd.**, where I lead
 Certified **Scrum Product Owner (CSPO®)** and **Fellow of Insurance (FIII)**, I combine technical expertise, leadership, and a strong business acumen to deliver measurable impact.  
 
 ---
+---
+
+## ✍️ Articles & Insights  
+
+- [Rewarding Honesty: A Fresh Take on General Insurance](https://medium.com/@apoorvshukla001/rewarding-honesty-a-fresh-take-on-general-insurance-0bbaa66df3f1) *(Medium)*  
+
+- [Fintech, Insurtech & Digital Payments – A Perspective](https://www.linkedin.com/posts/apoorvashuklaiima_fintech-insurtech-digitalpayments-activity-7349672888922210304-tUhR?utm_source=share&utm_medium=member_desktop&rcm=ACoAABUYH0kBftaWMp-34ti61cou4BZV4y2xV6c) *(LinkedIn)*  
+
+---
 
 ## 💼 Experience  
 
@@ -72,7 +81,3 @@ Certified **Scrum Product Owner (CSPO®)** and **Fellow of Insurance (FIII)**, I
 
 ---
 
-## 🌐 Portfolio Focus  
-This site is a showcase of my journey across **insurance, transformation, and digital innovation**, with insights from my projects, thought-leadership articles, and data-driven case studies.  
-
----
