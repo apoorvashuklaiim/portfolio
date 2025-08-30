@@ -1,3 +1,4 @@
+<img src="photo.jpg" alt="Apoorva Shukla" width="200" style="border-radius:50%;">
 # Apoorva Shukla  
 
 **Transformation Leader | Insurance & Digital Strategy | MBA (IIM Ahmedabad)**  
