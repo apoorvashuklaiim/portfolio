@@ -1,7 +1,7 @@
 # Data Scientist
 
 ###Education
-MBA, IIM AHmedabad
+- MBA, IIM AHmedabad
 
 ###Work Experience
 Senior Manager @ KEC International Ltd
@@ -10,5 +10,5 @@ Senior Manager @ KEC International Ltd
 
 
 ###Projects
-Rent vs Buy Analysis
-Predictive ANalytics to Lower Insurance Costs
+- Rent vs Buy Analysis
+- Predictive ANalytics to Lower Insurance Costs
