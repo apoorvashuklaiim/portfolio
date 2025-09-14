@@ -83,5 +83,5 @@ Certified **Scrum Product Owner (CSPO®)** and **Fellow of Insurance (FIII)**, I
 ## 🚀 Projects  
 
 ### 📊 Data Analysis Projects  
-- [Retail Sales Analysis](https://github.com/<your-username>/Data-Analysis/blob/main/Retail%20Sales%20Analysis/retail_sales_analysis.ipynb)  
+- [Retail Sales Analysis](https://github.com/apoorvashuklaiim/portfolio/tree/main/Data%20Analysis/Retail%20Sales%20Analysis/retail_sales_analysis.ipynb)  
 
