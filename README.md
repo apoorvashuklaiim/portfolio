@@ -80,5 +80,8 @@ Certified **Scrum Product Owner (CSPO®)** and **Fellow of Insurance (FIII)**, I
 - **Certified Scrum Product Owner® (CSPO)**  
 - **Lean Sigma (Green Belt)**  
 
----
+---## 📊 Data Analysis Projects  
+
+- [Retail Sales Analysis](https://github.com/<your-username>/Data-Analysis/blob/main/Retail%20Sales%20Analysis/retail_sales_analysis.ipynb)  
+
 
