@@ -29,7 +29,7 @@ Certified **Scrum Product Owner (CSPO®)** and **Fellow of Insurance (FIII)**, c
 
 ## 💼 Experience  
 
-**Senior Manager – Insurance**  
+**Senior Manager – Finance**  
 *KEC International Ltd.* | 05/2025 – Present  
 - Spearheading the complete insurance lifecycle across business verticals.  
 - Developing predictive models for proactive risk coverage.  
@@ -39,14 +39,14 @@ Certified **Scrum Product Owner (CSPO®)** and **Fellow of Insurance (FIII)**, c
 *United India Insurance Co. Ltd.* | 02/2017 – 04/2024  
 - Increased office profitability by **51%** via data analytics & risk-based selection.  
 - Digitized operations – achieving **80%+ online policy issuance** by training 150+ agents.  
-- Managed **20,000+ annual policy issuances** with 100% compliance.  
-- Settled 650+ claims with **94%+ claim settlement ratio**.  
+- Managed **20,000+ annual policy issuances** with 100% regulatory compliance.  
+- Settled 650+ claims maintaining **overall 94%+ claim settlement ratio** and **98% claim settlement ratio in motor portfolio**
 - Led merger of two divisional offices handling ₹49.15 Cr premium.  
 - Represented company in 300+ legal cases and managed high-value B2B accounts (NMDC, NTPC, Vedanta BALCO, CSEB).  
 
 **Officer**  
 *Canara Bank* | 09/2016 – 01/2017  
-- Managed ₹4 Cr daily cash transactions during **demonetization**.  
+- Managed ₹4 Cr daily cash transactions during **demonetization** as cash officer.  
 - Supported loan underwriting, including ₹100 Cr corporate loan.  
 - Promoted digital banking adoption and financial inclusion.  
 
@@ -66,9 +66,9 @@ Certified **Scrum Product Owner (CSPO®)** and **Fellow of Insurance (FIII)**, c
 ---
 
 ## 🛠️ Skills  
-- Insurance Operations: Claims, Underwriting, Risk & Fund Management  
-- Digital Transformation & Business-IT Alignment  
 - Data Analytics & Predictive Risk Modeling  
+- Digital Transformation & Business-IT Alignment  
+- Insurance Operations: Claims, Underwriting, Risk & Fund Management  
 - Regulatory Compliance: IRDAI, AML/KYC, PMLA, Dodd-Frank  
 - Strategic Partnerships & Stakeholder Management  
 
