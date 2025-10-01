@@ -11,13 +11,12 @@
 ---
 
 ## 👋 About Me  
-I am a **strategic and results-driven insurance professional** with ~8 years of experience across **general insurance operations, claims, underwriting, regulatory compliance, and digital transformation**. My expertise lies in **leading cross-functional teams, managing risk, driving profitability, and aligning business with IT solutions**.  
+**Strategic insurance leader** with 8 years of experience spanning **general insurance operations, claims, underwriting, regulatory compliance, and digital transformation**. Expertise lies in **leading cross-functional teams, managing risk, enhancing profitability, and aligning business needs with IT solutions**.
 
-Currently, I serve as **Senior Manager at KEC International Ltd.**, where I lead the end-to-end insurance lifecycle, develop predictive risk models, and optimize enterprise-wide insurance strategies.  
+Currently serving as **Senior Manager at KEC International Ltd.**, overseeing the insurance lifecycle, building predictive risk models, and driving enterprise-wide strategies to optimize insurance processes.
 
-Certified **Scrum Product Owner (CSPO®)** and **Fellow of Insurance (FIII)**, I combine technical expertise, leadership, and a strong business acumen to deliver measurable impact.  
+Certified **Scrum Product Owner (CSPO®)** and **Fellow of Insurance (FIII)**, combining technical expertise, leadership skills, and business acumen to create measurable value and drive results.
 
----
 ---
 
 ## ✍️ Articles & Insights  
